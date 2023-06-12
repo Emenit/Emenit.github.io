@@ -1,10 +1,9 @@
-title: Your Title
+title: DevOps in Shorts
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  DevOps in Shorts is a lightning talk conference dedicated to bringing together
+  the brightest minds in DevOps for a day of learning and collaboration.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
-# Build settings
-markdown: kramdown
+url: "emenit.github.io" # the base hostname & protocol for your site
 
 facebook:
   app_id: 
