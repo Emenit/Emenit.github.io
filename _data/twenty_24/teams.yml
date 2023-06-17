@@ -1,24 +1,51 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Nilsas Firantas
+  name: nilsas
+  subtitle: Time Wizard
+  img: nilsas.jpg
+  thumbnail: nilsas.jpg
+  alt: Picture of Nilsas
+  topic: Topic
+  description: Master of stop watch
+
+- title: Mantas Lukoševičius
+  name: mantas
+  subtitle: Love Director
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Jonas Krivas
+  name: jonas
+  subtitle: Techno King
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Vytenis Tomkevičius
+  name: vytenis
+  subtitle: Organisational Genius
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Tomas Stankevičius
+  name: tomas
+  subtitle: Scrum Master
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Dovydas Rimeisis
+  name: dovydas
+  subtitle: Sexy Voice
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
