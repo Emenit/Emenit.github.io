@@ -2,7 +2,7 @@
   name: nilsas
   subtitle: Time Wizard
   img: nilsas.jpg
-  thumbnail: nilsas.jpg
+  thumbnail: nilsas_gray_bg.png
   alt: Picture of Nilsas
   topic: Topic
   description: Master of stop watch
@@ -10,9 +10,9 @@
 - title: Mantas Lukoševičius
   name: mantas
   subtitle: Love Director
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: mantas.jpeg
+  thumbnail: mantas_600x600.jpg
+  alt: Picture of Mantas
   topic: Topic
   description: More Info
 
@@ -20,7 +20,7 @@
   name: jonas
   subtitle: Techno King
   img: TBD.jpg
-  thumbnail: TBD.jpg
+  thumbnail: default_600x600.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -29,7 +29,7 @@
   name: vytenis
   subtitle: Organisational Genius
   img: TBD.jpg
-  thumbnail: TBD.jpg
+  thumbnail: default_600x600.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -38,7 +38,7 @@
   name: tomas
   subtitle: Scrum Master
   img: TBD.jpg
-  thumbnail: TBD.jpg
+  thumbnail: tomas_bw_gray_bg.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
@@ -47,7 +47,7 @@
   name: dovydas
   subtitle: Sexy Voice
   img: TBD.jpg
-  thumbnail: TBD.jpg
+  thumbnail: dovydas_bw_gray_bg.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
