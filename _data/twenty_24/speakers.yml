@@ -1,26 +1,26 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Nilsas Firantas
+  name: nilsasf
+  subtitle: SRE @Vinted
+  img: nilsas_gray_bg.png
+  thumbnail: nilsas_gray_bg.png
+  alt: Picture of Nilsas
+  topic: TBD
+  description: TBD
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Dovydas Rimeisis
+  name: dovydasr
+  subtitle: Head of Service Development @Devoteam
+  img: dovydas_bw_gray_bg.png
+  thumbnail: dovydas_bw_gray_bg.png
+  alt: Picture of Dovydas
+  topic: TBD
+  description: TBD
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Tomas Stankevičius
+  name: tomass
+  subtitle: Snr. DevOps Leader @Devbridge
+  img: tomas_bw_gray_bg.png
+  thumbnail: tomas_bw_gray_bg.png
+  alt: Picture of Tomas
+  topic: TBD
+  description: TBD
